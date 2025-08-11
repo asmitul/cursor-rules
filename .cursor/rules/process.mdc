@@ -1,0 +1,15 @@
+# 开发流程规则
+
+## 背景
+- 适用于规划、实现和问题解决的代码生成任务。
+- 规则类型：Always（始终生效）。
+
+## 规划与分阶段
+- 将复杂任务拆分为 3-5 个阶段。
+- 在 `IMPLEMENTATION_PLAN.md` 中记录：
+  ```markdown
+  ## Stage N: [阶段名称]
+  **Goal**: [具体交付物]
+  **Success Criteria**: [可测试的结果]
+  **Tests**: [具体测试用例]
+  **Status**: [Not Started|In Progress|Complete]
